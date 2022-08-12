@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://dev-zitate21.pantheonsite.io/:splat"
+  status = 200
+  force = true
